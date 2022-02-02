@@ -1,0 +1,75 @@
+C:\Users\Piotr\source\repos\Covid105 v2\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.csproj.AssemblyReference.cache
+C:\Users\Piotr\source\repos\Covid105 v2\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotr\Desktop\Covid105_v2\WWSI.PK105_Client\bin\Debug\net5.0\WWSI.PK105_Client.exe
+C:\Users\Piotr\Desktop\Covid105_v2\WWSI.PK105_Client\bin\Debug\net5.0\WWSI.PK105_Client.deps.json
+C:\Users\Piotr\Desktop\Covid105_v2\WWSI.PK105_Client\bin\Debug\net5.0\WWSI.PK105_Client.runtimeconfig.json
+C:\Users\Piotr\Desktop\Covid105_v2\WWSI.PK105_Client\bin\Debug\net5.0\WWSI.PK105_Client.runtimeconfig.dev.json
+C:\Users\Piotr\Desktop\Covid105_v2\WWSI.PK105_Client\bin\Debug\net5.0\WWSI.PK105_Client.dll
+C:\Users\Piotr\Desktop\Covid105_v2\WWSI.PK105_Client\bin\Debug\net5.0\ref\WWSI.PK105_Client.dll
+C:\Users\Piotr\Desktop\Covid105_v2\WWSI.PK105_Client\bin\Debug\net5.0\WWSI.PK105_Client.pdb
+C:\Users\Piotr\Desktop\Covid105_v2\WWSI.PK105_Client\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Piotr\Desktop\Covid105_v2\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.csproj.AssemblyReference.cache
+C:\Users\Piotr\Desktop\Covid105_v2\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotr\Desktop\Covid105_v2\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.AssemblyInfoInputs.cache
+C:\Users\Piotr\Desktop\Covid105_v2\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.AssemblyInfo.cs
+C:\Users\Piotr\Desktop\Covid105_v2\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Covid105_v2\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.dll
+C:\Users\Piotr\Desktop\Covid105_v2\WWSI.PK105_Client\obj\Debug\net5.0\ref\WWSI.PK105_Client.dll
+C:\Users\Piotr\Desktop\Covid105_v2\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.pdb
+C:\Users\Piotr\Desktop\Covid105_v2\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.genruntimeconfig.cache
+C:\Users\Piotr\Desktop\Covid105_v2\WWSI.PK105_Client\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Piotr\Desktop\Covid105_v2 — kopia\WWSI.PK105_Client\bin\Debug\net5.0\WWSI.PK105_Client.exe
+C:\Users\Piotr\Desktop\Covid105_v2 — kopia\WWSI.PK105_Client\bin\Debug\net5.0\WWSI.PK105_Client.deps.json
+C:\Users\Piotr\Desktop\Covid105_v2 — kopia\WWSI.PK105_Client\bin\Debug\net5.0\WWSI.PK105_Client.runtimeconfig.json
+C:\Users\Piotr\Desktop\Covid105_v2 — kopia\WWSI.PK105_Client\bin\Debug\net5.0\WWSI.PK105_Client.runtimeconfig.dev.json
+C:\Users\Piotr\Desktop\Covid105_v2 — kopia\WWSI.PK105_Client\bin\Debug\net5.0\WWSI.PK105_Client.dll
+C:\Users\Piotr\Desktop\Covid105_v2 — kopia\WWSI.PK105_Client\bin\Debug\net5.0\ref\WWSI.PK105_Client.dll
+C:\Users\Piotr\Desktop\Covid105_v2 — kopia\WWSI.PK105_Client\bin\Debug\net5.0\WWSI.PK105_Client.pdb
+C:\Users\Piotr\Desktop\Covid105_v2 — kopia\WWSI.PK105_Client\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Piotr\Desktop\Covid105_v2 — kopia\WWSI.PK105_Client\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Piotr\Desktop\Covid105_v2 — kopia\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.csproj.AssemblyReference.cache
+C:\Users\Piotr\Desktop\Covid105_v2 — kopia\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotr\Desktop\Covid105_v2 — kopia\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.AssemblyInfoInputs.cache
+C:\Users\Piotr\Desktop\Covid105_v2 — kopia\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.AssemblyInfo.cs
+C:\Users\Piotr\Desktop\Covid105_v2 — kopia\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Covid105_v2 — kopia\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.dll
+C:\Users\Piotr\Desktop\Covid105_v2 — kopia\WWSI.PK105_Client\obj\Debug\net5.0\ref\WWSI.PK105_Client.dll
+C:\Users\Piotr\Desktop\Covid105_v2 — kopia\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.pdb
+C:\Users\Piotr\Desktop\Covid105_v2 — kopia\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.genruntimeconfig.cache
+C:\Users\s8310pk\Desktop\Covid105_v2-kopia\WWSI.PK105_Client\bin\Debug\net5.0\WWSI.PK105_Client.exe
+C:\Users\s8310pk\Desktop\Covid105_v2-kopia\WWSI.PK105_Client\bin\Debug\net5.0\WWSI.PK105_Client.deps.json
+C:\Users\s8310pk\Desktop\Covid105_v2-kopia\WWSI.PK105_Client\bin\Debug\net5.0\WWSI.PK105_Client.runtimeconfig.json
+C:\Users\s8310pk\Desktop\Covid105_v2-kopia\WWSI.PK105_Client\bin\Debug\net5.0\WWSI.PK105_Client.runtimeconfig.dev.json
+C:\Users\s8310pk\Desktop\Covid105_v2-kopia\WWSI.PK105_Client\bin\Debug\net5.0\WWSI.PK105_Client.dll
+C:\Users\s8310pk\Desktop\Covid105_v2-kopia\WWSI.PK105_Client\bin\Debug\net5.0\ref\WWSI.PK105_Client.dll
+C:\Users\s8310pk\Desktop\Covid105_v2-kopia\WWSI.PK105_Client\bin\Debug\net5.0\WWSI.PK105_Client.pdb
+C:\Users\s8310pk\Desktop\Covid105_v2-kopia\WWSI.PK105_Client\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\s8310pk\Desktop\Covid105_v2-kopia\WWSI.PK105_Client\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\s8310pk\Desktop\Covid105_v2-kopia\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.csproj.AssemblyReference.cache
+C:\Users\s8310pk\Desktop\Covid105_v2-kopia\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s8310pk\Desktop\Covid105_v2-kopia\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.AssemblyInfoInputs.cache
+C:\Users\s8310pk\Desktop\Covid105_v2-kopia\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.AssemblyInfo.cs
+C:\Users\s8310pk\Desktop\Covid105_v2-kopia\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.csproj.CoreCompileInputs.cache
+C:\Users\s8310pk\Desktop\Covid105_v2-kopia\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.csproj.CopyComplete
+C:\Users\s8310pk\Desktop\Covid105_v2-kopia\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.dll
+C:\Users\s8310pk\Desktop\Covid105_v2-kopia\WWSI.PK105_Client\obj\Debug\net5.0\ref\WWSI.PK105_Client.dll
+C:\Users\s8310pk\Desktop\Covid105_v2-kopia\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.pdb
+C:\Users\s8310pk\Desktop\Covid105_v2-kopia\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.genruntimeconfig.cache
+C:\Users\Piotr\Documents\Covid105_v2-kopia\WWSI.PK105_Client\bin\Debug\net5.0\WWSI.PK105_Client.exe
+C:\Users\Piotr\Documents\Covid105_v2-kopia\WWSI.PK105_Client\bin\Debug\net5.0\WWSI.PK105_Client.deps.json
+C:\Users\Piotr\Documents\Covid105_v2-kopia\WWSI.PK105_Client\bin\Debug\net5.0\WWSI.PK105_Client.runtimeconfig.json
+C:\Users\Piotr\Documents\Covid105_v2-kopia\WWSI.PK105_Client\bin\Debug\net5.0\WWSI.PK105_Client.runtimeconfig.dev.json
+C:\Users\Piotr\Documents\Covid105_v2-kopia\WWSI.PK105_Client\bin\Debug\net5.0\WWSI.PK105_Client.dll
+C:\Users\Piotr\Documents\Covid105_v2-kopia\WWSI.PK105_Client\bin\Debug\net5.0\ref\WWSI.PK105_Client.dll
+C:\Users\Piotr\Documents\Covid105_v2-kopia\WWSI.PK105_Client\bin\Debug\net5.0\WWSI.PK105_Client.pdb
+C:\Users\Piotr\Documents\Covid105_v2-kopia\WWSI.PK105_Client\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Piotr\Documents\Covid105_v2-kopia\WWSI.PK105_Client\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Piotr\Documents\Covid105_v2-kopia\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.csproj.AssemblyReference.cache
+C:\Users\Piotr\Documents\Covid105_v2-kopia\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotr\Documents\Covid105_v2-kopia\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.AssemblyInfoInputs.cache
+C:\Users\Piotr\Documents\Covid105_v2-kopia\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.AssemblyInfo.cs
+C:\Users\Piotr\Documents\Covid105_v2-kopia\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Documents\Covid105_v2-kopia\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.dll
+C:\Users\Piotr\Documents\Covid105_v2-kopia\WWSI.PK105_Client\obj\Debug\net5.0\ref\WWSI.PK105_Client.dll
+C:\Users\Piotr\Documents\Covid105_v2-kopia\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.pdb
+C:\Users\Piotr\Documents\Covid105_v2-kopia\WWSI.PK105_Client\obj\Debug\net5.0\WWSI.PK105_Client.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "B9G6gX8xQsCi9kLIPZh0tXkFAO+cHDHrHRU3EXjLeriQTNWBKL6O/Xwn8hAj6UNTUCys195LWlwjEavvoO7qPg==",
+  "success": true,
+  "projectFilePath": "E:\\Github\\Covid_Azure_App\\Azure_App_Sample\\WWSI.PK105_Client\\WWSI.PK105_Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Piotr\\.nuget\\packages\\microsoft.extensions.apidescription.client\\3.0.0\\microsoft.extensions.apidescription.client.3.0.0.nupkg.sha512",
+    "C:\\Users\\Piotr\\.nuget\\packages\\microsoft.identity.client\\4.37.0\\microsoft.identity.client.4.37.0.nupkg.sha512",
+    "C:\\Users\\Piotr\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Piotr\\.nuget\\packages\\nswag.apidescription.client\\13.0.5\\nswag.apidescription.client.13.0.5.nupkg.sha512",
+    "C:\\Users\\Piotr\\.nuget\\packages\\nswag.msbuild\\13.0.5\\nswag.msbuild.13.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
